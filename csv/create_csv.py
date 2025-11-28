@@ -21,6 +21,11 @@ data = {
         "Dairy", "Meat", "Meat", "Meat", "Grain", "Grain", "Vegetable", "Vegetable",
         "Vegetable", "Vegetable", "Beverage", "Beverage", "Beverage", "Beverage",
         "Snack", "Snack", "Snack"
+    ],
+    "owner": [
+        "Alice", "Alice", "Alice", "Bob", "Bob", "Bob", "Carol", "Carol",
+        "Bob", "David", "David", "David", "Eve", "Eve", "Frank", "Frank",
+        "Frank", "Frank", "Alice", "Alice", "Eve", "Eve", "Carol", "Carol", "David"
     ]
 }
 
