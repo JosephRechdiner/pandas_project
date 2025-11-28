@@ -1,0 +1,26 @@
+id,name,price,quantity,category,owner
+1,Apple,2.5,100,Fruit,Alice
+2,Banana,1.2,150,Fruit,Alice
+3,Orange,3.0,80,Fruit,Alice
+4,Milk,4.5,50,Dairy,Bob
+5,Cheese,8.0,30,Dairy,Bob
+6,Yogurt,3.5,60,Dairy,Bob
+7,Bread,2.0,120,Bakery,Carol
+8,Croissant,2.8,40,Bakery,Carol
+9,Butter,5.0,25,Dairy,Bob
+10,Chicken,10.0,20,Meat,David
+11,Beef,12.0,15,Meat,David
+12,Pork,9.5,10,Meat,David
+13,Rice,1.5,200,Grain,Eve
+14,Pasta,2.0,180,Grain,Eve
+15,Tomato,1.8,90,Vegetable,Frank
+16,Potato,1.0,100,Vegetable,Frank
+17,Carrot,0.9,80,Vegetable,Frank
+18,Lettuce,1.5,50,Vegetable,Frank
+19,Apple Juice,3.0,70,Beverage,Alice
+20,Orange Juice,3.2,65,Beverage,Alice
+21,Water,0.8,300,Beverage,Eve
+22,Soda,1.5,150,Beverage,Eve
+23,Chocolate,2.5,60,Snack,Carol
+24,Chips,1.7,80,Snack,Carol
+25,Nuts,4.0,40,Snack,David
